@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Mobile and Web Development
+- 🌱 I’m currently learning Swift, Flutter
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bilgehankiso/)
+
 <!--
 **bilgeehan/bilgeehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
