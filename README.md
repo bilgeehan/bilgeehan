@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile and Web Development**
 
-- 🌱 I’m currently learning **Swift and Flutter**
+- 🌱 I’m currently learning **Swift, Flutter and Artificial Intelligence**
 
 - 📫 How to reach me **bilgehankiso1@gmail.com**
 
